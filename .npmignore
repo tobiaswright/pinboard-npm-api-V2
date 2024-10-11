@@ -5,5 +5,8 @@
 /coverage/
 
 # Build files
-/dist
+/scr
 .env
+
+tsconfig.json
+tsup.config.ts

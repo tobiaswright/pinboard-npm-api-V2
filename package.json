@@ -4,6 +4,10 @@
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/tobiaswright/pinboard-npm-api-V2",
+  "repository": {
+    "url": "https://github.com/tobiaswright/pinboard-npm-api-V2"
+  },
   "files": [
     "dist"
   ],
@@ -11,9 +15,9 @@
     "build": "tsup",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
-  "description": "",
+  "author": "tobiaswright",
+  "license": "MIT",
+  "description": "Pinboard API Wrapper",
   "devDependencies": {
     "ts-node": "^10.9.2",
     "tsup": "^8.3.0",

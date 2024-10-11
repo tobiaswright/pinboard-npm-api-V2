@@ -1,0 +1,1 @@
+export type addProps = {a:number, b:number}
